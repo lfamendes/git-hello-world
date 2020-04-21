@@ -6,3 +6,4 @@ Deleted the .class file.
 Adding something to test new branch hello-world-branch1.
 Adding some text ...
 TEST TEST TEST
+LFM: My git now!!!!
